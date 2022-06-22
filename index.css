@@ -638,6 +638,7 @@ body{
   width: 100%;
   float: left;
   background-color: white;
+  overflow: hidden;
 }
 .bspccl{
   text-decoration: none;
@@ -658,7 +659,7 @@ body{
 .bspccb{
   border: 3px double #a3a3a3;
   background-color: rgb(255, 255, 255);
-  margin-left: 71px;
+  margin-left: 81px;
   font-family: "open sans",sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -712,6 +713,7 @@ body{
   width: 100%;
   float: left;
   background-color: white;
+  overflow: hidden;
 }
 .napccl{
   text-decoration: none;
@@ -724,7 +726,7 @@ body{
 }
 .naprat{
   text-align: center;
-  margin-left: 93px;
+  margin-left: 100px;
  
   color: #57bf84;
 
@@ -732,7 +734,7 @@ body{
 .napccb{
   border: 3px double #a3a3a3;
   background-color: rgb(255, 255, 255);
-  margin-left: 75px;
+  margin-left: 85px;
   font-family: "open sans",sans-serif;
   font-size: 12px;
   font-weight: 600;
