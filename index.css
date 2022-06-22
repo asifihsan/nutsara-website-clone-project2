@@ -734,7 +734,7 @@ body{
 .napccb{
   border: 3px double #a3a3a3;
   background-color: rgb(255, 255, 255);
-  margin-left: 85px;
+  margin-left: 90px;
   font-family: "open sans",sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -919,3 +919,5 @@ body{
 .lcp:hover{
   color:#00a6cf;
 }
+
+
